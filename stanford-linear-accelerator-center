@@ -1,0 +1,42 @@
+<title>SLAC SPIRES Databases</title>
+<h1>SLAC SPIRES Databases</h1>
+<address><a href="slacinst.html">SLAC</a>  1 Dec 1993 </address>
+<h2>SLACVM Information Service</h2>
+<dl>
+<dt><a href="https://swap.stanford.edu/was/19931201000000mp_/http://slacvm.slac.stanford.edu/FIND/binlist">BINLIST</a>
+<dd>SLAC phone book with e-mail addresses
+<dt><a href="https://swap.stanford.edu/was/19931201000000mp_/http://slacvm.slac.stanford.edu/FIND/hep">HEP</a>
+<dd>SPIRES HEP preprint database
+<dt><a href="https://swap.stanford.edu/was/19931201000000mp_/http://slacvm.slac.stanford.edu/FIND/abstracts">ABSTRACTS</a>
+<dd>Bulletin boards ABSTRACTS database
+<dt><a href="https://swap.stanford.edu/was/19931201000000mp_/http://slacvm.slac.stanford.edu/FIND/Books">BOOKS</a>
+<dd>SLAC Library Book Catalog
+<dt><a href="https://swap.stanford.edu/was/19931201000000mp_/http://slacvm.slac.stanford.edu/FIND/conf">CONF</a>
+<dd>Past & future particle physics conferences
+<dt><a href="https://swap.stanford.edu/was/19931201000000mp_/http://slacvm.slac.stanford.edu/FIND/hepnames">HEPNAMES</a>
+<dd>World-wide e-mail directory for particle physics, incl/SLAC
+<dt><a href="https://swap.stanford.edu/was/19931201000000mp_/http://slacvm.slac.stanford.edu/FIND/institutions">INSTITUTIONS</a>
+<dd>HEP addresses, phone and fax numbers
+<dt><a href="https://swap.stanford.edu/was/19931201000000mp_/http://slacvm.slac.stanford.edu/FIND/newppf.html">PPF-LIST</a>
+<dd>List of preprints currently displayed in the Library
+<dt><a href="https://swap.stanford.edu/was/19931201000000mp_/http://slacvm.slac.stanford.edu/FIND/slacprep.html">NEW FROM SLAC</a>
+<dd>List of latest preprints/reports by SLAC authors
+<dt><a href="https://swap.stanford.edu/was/19931201000000mp_/http://slacvm.slac.stanford.edu/FIND/particles">PARTICLES</a>
+<dd>Data from the Review of Particle Properties - LBL PDG
+<dt><a href="https://swap.stanford.edu/was/19931201000000mp_/http://slacvm.slac.stanford.edu/FIND/Experiments">EXPERIMENTS</a>
+<dd>Experiments in high-energy physics (PDG LBL-91 Report)
+<dt><a href="https://swap.stanford.edu/was/19931201000000mp_/http://slacvm.slac.stanford.edu/FIND/Slacspeak">SLACSPEAK</a>
+<dd>Glossary of SLAC and HEP related acronyms and terms
+</dl>
+<p>
+<hr>
+<p>
+<address><a href="binlist?find+name+addis,louise(using+qspires">Addis</a></address>
+ 
+<!-- Remember to edit out FOLIO for DEFAULT HTML (world version) -->
+ 
+<!-- 30 Apr 92 by WWW      Created. (Who's that?)  Then modified.  See WWW[TEST] HISTORY -->
+<!-- 26 Nov 93 by Addis    Edited out folio for outside users -->
+<!-- 30 Nov 93 by Winters  Add standard SLAC header and trailer info -->
+<!--  1 Dec 93 by Winters  Remove  NEXTID 1  tag re Addis; make owner info short -->
+-->
